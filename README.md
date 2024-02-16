@@ -1,1 +1,3 @@
-# an2dl-image-classification
+# Image Classification Challenge
+
+**Homework Assignment of the course [Artificial Neural Networks and Deep Learning](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=810394&polij_device_category=DESKTOP&__pj0=0&__pj1=e1d18ec43fc9628f83ce82e5a309d240) at [Politecnico di Milano](https://www.polimi.it/](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=810394&polij_device_category=DESKTOP&__pj0=0&__pj1=e1d18ec43fc9628f83ce82e5a309d240)).**
