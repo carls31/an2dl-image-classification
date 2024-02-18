@@ -22,4 +22,4 @@ To face the moderately-sized dataset some data augmentation techniques are appli
 * Brightness 
 * Contrast
 
-For a detailed understanding of the model architecture and techniques employed, please refer to the provided Report.
+**For a detailed understanding of the model architecture and techniques employed, please refer to the provided [Report](https://github.com/carls31/an2dl-image-classification/blob/main/Report.pdf).
