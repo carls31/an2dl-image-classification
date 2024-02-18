@@ -1,6 +1,6 @@
 # Artificial Neural Networks and Deep Learning 2023 - Image Classification Challenge
 
-**This repository contains materials for the first Homework of the course [Artificial Neural Networks and Deep Learning](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=810394&polij_device_category=DESKTOP&__pj0=0&__pj1=e1d18ec43fc9628f83ce82e5a309d240) at [Politecnico di Milano](https://www.polimi.it/).**
+This repository contains materials for the first Homework of the course [Artificial Neural Networks and Deep Learning](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=810394&polij_device_category=DESKTOP&__pj0=0&__pj1=e1d18ec43fc9628f83ce82e5a309d240) at [Politecnico di Milano](https://www.polimi.it/).
 The assignment focuses on binary image classification, specifically classifying plants into two categories based on their health state: "healthy" and "unhealthy." The task involves leveraging deep learning techniques to predict the correct class label for each image in the provided dataset.
 
 ## Dataset Details:
@@ -22,4 +22,7 @@ To face the moderately-sized dataset some data augmentation techniques are appli
 * Brightness 
 * Contrast
 
-**For a detailed understanding of the model architecture and techniques employed, please refer to the provided [Report](https://github.com/carls31/an2dl-image-classification/blob/main/Report.pdf).
+For a detailed understanding of the model architecture and techniques employed, please refer to the provided [Report](https://github.com/carls31/an2dl-image-classification/blob/main/Report.pdf).
+
+## Results:
+With the proposed model we obtained 4.5/5 in the challenge score. 
