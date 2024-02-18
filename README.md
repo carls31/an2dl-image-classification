@@ -25,5 +25,5 @@ To face the moderately-sized dataset some data augmentation techniques are appli
 For a detailed understanding of the model architecture and techniques employed, please refer to the provided [Report](https://github.com/carls31/an2dl-image-classification/blob/main/Report.pdf).
 
 ## Results:
-With the proposed model we obtained 4.5/5 in the challenge score. 
+With the proposed model we obtained 4.5/5 in the challenge score.    
 The model have been tested on an hidden dataset and it reached a 78% of accuracy.
